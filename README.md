@@ -1,3 +1,7 @@
+#Update
+My Edison device got bricked while installing Jubilinux :( Tried to recover it many ways but as it is discontinued and lack of support and most importantly old tools and my lack of knowledge I could not recover it. I got a Raspberry Pi 3 B+ and will continue with that and Will still have master-slave kind of architechure just a bit different way
+
+
 # plantwatering
 Something I am building so I can stop my plants from dying as I forget to water then :(
 
